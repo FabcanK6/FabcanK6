@@ -1,6 +1,8 @@
 # 👋 Hi there, I'm Fabian Msafiri!
 
-Welcome to my GitHub profile! I'm a passionate data scientist and clinical database scientist with extensive experience in data management, analysis, and research.
+Welcome to my GitHub profile! 
+I'm a passionate and results-oriented data scientist with extensive experience in data management, analysis, and research.
+Committed to utilizing data-driven insights to solve complex challenges and enhance operational efficiency.
 
 ## 🚀 About Me
 
