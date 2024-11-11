@@ -25,7 +25,7 @@ Committed to utilizing data-driven insights to solve complex challenges and enha
 
 ## 🌱 What I'm Currently Working On
 
-- Developing idiomatic experimentation libraries for streamlined analysis of large datasets using modern python stack; hatch, sphinx, polara
+- Developing idiomatic experimentation libraries for streamlined analysis of large datasets using modern python stack.
 - Exploring advanced machine learning models using Python and TensorFlow.
 - Exploring data visualization techniques with Tableau to create impactful presentations.
 - Engaging in clinical data research and health informatics projects.
