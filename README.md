@@ -1,29 +1,30 @@
 # 👋 Hi there, I'm Fabian Msafiri!
 
-Welcome to my GitHub profile! I'm a passionate data scientist and clinical database scientist with extensive experience in data management, analysis, and research. I'm currently pursuing a Master of Science in Data Science at Eastern University while working at Senseonics.
+Welcome to my GitHub profile! I'm a passionate data scientist and clinical database scientist with extensive experience in data management, analysis, and research.
 
 ## 🚀 About Me
 
 - Location: Pasadena, MD
-- Current Role: Clinical Database Scientist at Senseonics
+- Current Role: Clinical Database Scientist
 - Education: 
-  - M.S. in Data Science at Eastern University
-  - B.S. in Health Sciences at Towson University
+  - M.S. in Data Science 
+  - B.S. in Health Sciences 
 - Languages: English (Native), Swahili (Native), Spanish (Novice)
 
 ## 🔧 Technical Skills
 
 - Database Management: MySQL, PostgreSQL
-- Programming: Python, R, MATLAB
-- Data Analysis Tools: Pandas, NumPy
-- Machine Learning: scikit-learn, TensorFlow, PyTorch
+- Programming: Python, R, SQL, MATLAB
+- Data Science Tools: RStudio, Jupyter Notebooks, VS Code, Spyder
+- Machine Learning: Scikit-learn, TensorFlow, PyTorch
 - Big Data Technologies: OCR
-- Data Visualization: Tableau
-- Clinical Data Management Systems: Zelta, Oracle
+- Data Visualization: Tableau, Seaborn, Matplotlib
+- Clinical Data Management Systems: Zelta, Oracle, IBM
 
 ## 🌱 What I'm Currently Working On
 
-- Developing advanced machine learning models using Python and TensorFlow.
+- Developing idiomatic experimentation libraries for streamlined analysis of large datasets using modern python stack; hatch, sphinx, polara
+- Exploring advanced machine learning models using Python and TensorFlow.
 - Exploring data visualization techniques with Tableau to create impactful presentations.
 - Engaging in clinical data research and health informatics projects.
 
