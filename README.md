@@ -7,7 +7,7 @@ Committed to utilizing data-driven insights to solve complex challenges and enha
 ## 🚀 About Me
 
 - Location: Pasadena, MD
-- Current Role: Clinical Database Scientist
+- Current Role: Clinical Business Intelligence Data Analyst
 - Education: 
   - M.S. in Data Science 
   - B.S. in Health Sciences 
@@ -27,7 +27,8 @@ Committed to utilizing data-driven insights to solve complex challenges and enha
 
 - Developing idiomatic experimentation libraries for streamlined analysis of large datasets using modern python stack.
 - Exploring advanced machine learning models using Python and TensorFlow.
-- Exploring data visualization techniques with Tableau to create impactful presentations.
+- Developing, designing and building clinical apps to facilitate the visualiztion and analytical intepretation of clinical data insights.
+- Exploring data visualization techniques with power BI.
 - Engaging in clinical data research and health informatics projects.
 
 ## 📫 How to Reach Me
