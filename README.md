@@ -7,7 +7,7 @@ Committed to utilizing data-driven insights to solve complex challenges and enha
 ## 🚀 About Me
 
 - Location: Pasadena, MD
-- Current Role: Lead Data Science Strategist
+- Current Role: Clinical Data Scientist
 - Education: 
   - M.S. in Data Science 
   - B.S. in Health Sciences 
