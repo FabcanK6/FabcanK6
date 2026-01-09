@@ -1,13 +1,13 @@
 # 👋 Hi there, I'm Fabian Msafiri!
 
 Welcome to my GitHub profile! 
-I'm a passionate and results-oriented data scientist with extensive experience in data management, analysis, and research.
+I'm a passionate and results-oriented Clinical AI/ML scientist with extensive experience in data management, data science/analysis, and clinical research.
 Committed to utilizing data-driven insights to solve complex challenges and enhance operational efficiency.
 
 ## 🚀 About Me
 
 - Location: Pasadena, MD
-- Current Role: Clinical Data Scientist
+- Current Role: Clinical AI/ML Scientist
 - Education: 
   - M.S. in Data Science 
   - B.S. in Health Sciences 
@@ -20,7 +20,7 @@ Committed to utilizing data-driven insights to solve complex challenges and enha
 - Data Science Tools: RStudio, Jupyter Notebooks, VS Code, Spyder
 - Machine Learning: Scikit-learn, TensorFlow, PyTorch
 - Big Data Technologies: OCR
-- Data Visualization: Tableau, Seaborn, Matplotlib
+- Data Visualization: Tableau, PowerBi, Seaborn, Matplotlib
 - Clinical Data Management Systems: Zelta, Oracle, IBM
 
 ## 🌱 What I'm Currently Working On
