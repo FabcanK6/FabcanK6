@@ -25,11 +25,12 @@ Committed to utilizing data-driven insights to solve complex challenges and enha
 
 ## 🌱 What I'm Currently Working On
 
-- Developing idiomatic experimentation libraries for streamlined analysis of large datasets using modern python stack.
-- Exploring advanced machine learning models using Python and TensorFlow.
-- Developing, designing and building clinical apps to facilitate the visualiztion and analytical intepretation of clinical data insights.
-- Exploring data visualization techniques with power BI.
-- Engaging in clinical data research and health informatics projects.
+- Building a Microsoft Teams–native AI meeting assistant that automatically joins meetings, captures decisions and action items, and generates a governed post‑meeting system of record in SharePoint.
+- Building automation systems that transform manual clinical operations workflows into scalable, repeatable, and audit‑ready pipelines using Python, Power BI, Power Automate, and SharePoint.
+- Designing intelligent data‑processing scripts for forecasting, milestone flagging, and cadence‑driven operational logic across clinical trial workflows
+- Exploring advanced machine learning and large‑scale data analysis techniques to elevate clinical analytics and health‑informatics applications.
+- Investigating opportunities to layer LLM‑based assistants on top of ClinOps data flows that could enable automated insight extraction, anomaly detection, and next‑step recommendations powered by structured operational datasets.
+
 
 ## 📫 How to Reach Me
 
