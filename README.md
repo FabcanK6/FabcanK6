@@ -6,7 +6,7 @@ Committed to utilizing data-driven insights to solve complex challenges and enha
 
 ## 🚀 About Me
 
-- Location: Pasadena, MD
+- Location: Frederick, MD
 - Current Role: Clinical AI/ML Scientist
 - Education: 
   - M.S. in Data Science 
