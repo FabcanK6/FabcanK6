@@ -6,7 +6,7 @@ Committed to utilizing data-driven insights to solve complex challenges and enha
 
 ## 🧪 Featured Projects
 
-Two open-source AI tools for clinical trial teams. Both are free to try in the browser, with fictional data only.
+Two open-source AI tools for clinical trial teams. Both are free to try in the browser, with synthetic data only.
 
 ### [SCOPE](https://github.com/FabcanK6/scope): Site Communication & Oversight Processing Engine
 
