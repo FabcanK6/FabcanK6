@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Fabian Msafiri!
 
 Welcome to my GitHub profile!
-I'm a passionate and results-oriented Clinical AI/ML scientist with extensive experience in data management, data science/analysis, and clinical research.
+I'm a passionate and results-oriented Clinical AI/ML scientist with extensive experience in data management, data science, data analytics, and clinical research.
 Committed to utilizing data-driven insights to solve complex challenges and enhance operational efficiency.
 
 ## 🧪 Featured Projects
